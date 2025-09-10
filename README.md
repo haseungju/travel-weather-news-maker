@@ -125,7 +125,10 @@ python article_generator_app.py
 
 - 기타 스크립트
   - `crw_data/brand_remove.py`: 데이터 정제용 보조 스크립트. 수집된 DB에서 '스타벅스'와 같이 여행지에 해당하지 않는 프랜차이즈 브랜드 데이터를 삭제하는 역할을 합니다.
+    
+## 7. 작동 화면
+-https://docs.google.com/presentation/d/1MGRHGSodB544msMysSvzGLQQfRTDp_rpxwk6UA8SJ5o/edit
 
-## 7. 개발자
+## 8. 개발자
 
 - 하승주, 홍석원
