@@ -1,0 +1,17 @@
+# GUI Framework
+PyQt5==5.15.10
+
+# Web Scraping & Browser Automation
+selenium==4.15.2
+
+# HTTP Requests & API
+requests==2.31.0
+
+# Data Processing
+pandas==2.1.4
+
+# AI & Language Models
+google-generativeai==0.3.2
+
+# Environment Variables
+python-dotenv==1.0.0
